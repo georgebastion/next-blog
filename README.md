@@ -2,3 +2,4 @@
 
 #This project utilises NextJs and TailWind CSS to create a beautiful blog application.
 
+![](https://github.com/georgebastion/georgebastion/blob/main/Bastion.png)
